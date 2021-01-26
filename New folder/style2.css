@@ -1,0 +1,44 @@
+/* body{
+	background-color:lightcyan;
+}
+.myform{
+	padding:10px;
+	border-radius:20px;
+	width: 500px;
+	border: dotted cadetblue;
+	background-color: cornsilk;
+	text-align: center;
+}
+.age{
+	width: 3vw;
+}
+.btn{
+    cursor: pointer;
+    background-color: lightsalmon;
+    border-style: outset;
+    border-width: 3px;
+	text-align: center;
+	padding: 4px;
+}
+.btn2{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.btn3{
+	display: none;
+}
+.submit{
+	cursor: pointer;
+}
+label{
+	display: inline-block;
+	text-align: right;
+}
+div{
+	margin: 10px;
+	display:inline-block;
+	text-align: right;
+}
+footer{
+	text-align: center;
+} */

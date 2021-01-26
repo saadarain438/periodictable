@@ -1,0 +1,100 @@
+.wl{
+    text-align: center;
+}
+.myform{
+    position: absolute;
+    top: 100px;
+    right: 80px;
+    background-color: rgb(243, 243, 147, 0.7);
+    width: 440px;
+    padding: 5px;
+    border-radius: 20px;
+    border-style: inherit;
+    display: block;
+}
+input{
+    margin: 10px;
+    padding: 5px;
+    font-size: 1em;
+    width: 200px;
+    border-style: outset;
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+}
+input:focus {
+    border-color: red;
+    border-radius: 15px;
+    outline: none;
+}
+label{
+    text-align: right;
+    display: inline-block;
+    width: 160px;
+}
+.gender{
+    margin: 10px;
+    padding: 5px;
+    font-size: 1em;
+    width: 210px;
+    border-style: outset;
+    border-width: 2px;
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+}
+.gender:focus {
+    border-color: red;
+    border-radius: 15px;
+    outline: none;
+}
+.btn3{
+    display:none;
+}
+.btn2{
+    text-align: center;
+}
+.btn4{
+    text-align: right;
+}
+.btn{
+    cursor: pointer;
+    width: 100px;
+    padding: 5px;
+    border-style: outset;
+    border-width: 2px;
+    background-color: rgb(205, 234, 245);
+    border-color: rgb(205, 234, 245);
+    border-radius: 15px;
+    outline: none;
+}
+.submit{
+    cursor: pointer;
+    text-align: center;
+    width: 100px;
+    background-color: rgb(214, 196, 196);
+    border-color: rgb(214, 196, 196);
+    border-radius: 15px;
+    outline: none;
+}
+.submit:hover{
+    background-color: lightgreen;
+    border-color: lightgreen;
+    border-radius: 15px;
+    outline: none;
+}
+.btn:hover{
+    background-color:rgb(136, 214, 240);
+    border-color: rgb(136, 214, 240);
+    border-radius: 15px;
+    outline: none;
+}
+.footer{
+    text-align: center;
+}
+.extra{
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    color: red;
+}
